@@ -6,4 +6,5 @@ __pycache__/
 .DS_Store
 
 Task2/Task2_Autoformer-fixed.ipynb
+Task2/Task2_Autoformer-extended.ipynb
 Task2/outputs_task2_fixed/
